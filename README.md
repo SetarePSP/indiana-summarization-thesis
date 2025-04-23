@@ -37,7 +37,7 @@ This project builds a hybrid summarization pipeline for radiology reports using 
 
 -  Google Colab (initial fine-tuning)
 -  Polito HPC (GPU training + full evaluation)
--  Conda environment (`thesis-gpu` on Mac, `bartenv` on HPC)
+-  Conda environment (`thesis-gpu` on pc, `bartenv` on HPC)
 
 ##  Folder Structure
 indiana_summarization_thesis/
