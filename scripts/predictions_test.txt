@@ -1,0 +1,1885 @@
+=== Sample 1 ===
+Input: No pneumothorax, pleural effusion or airspace consolidation. Heart size and pulmonary vasculature appear within normal limits. XXXX XXXX are intact.
+Reference: No acute cardiopulmonary abnormality. .
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 2 ===
+Input: Cardiomediastinal silhouette is within normal limits. No focal consolidation. No acute bony abnormalities.
+Reference: No acute cardiopulmonary abnormalities. .
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 3 ===
+Input: Thoracic aortic atherosclerotic calcifications are noted. There is a prominence of the pulmonary vasculature. No consolidating airspace disease is seen.
+Reference: Cardiomegaly and pulmonary vascular congestion.
+Prediction: 1. Stable prominence of the pulmonary vasculature. No evidence of acute cardiopulmonary disease.
+
+=== Sample 4 ===
+Input: Heart size and mediastinal contours appear within normal limits. Pulmonary vascularity is within normal limits. Visualized osseous structures appear intact.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 5 ===
+Input: The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. Sequela of prior granulomatous disease Lung volumes are low with central bronchovascular crowding and patchy basilar atelectasis.. Degenerative changes of the spine.
+Reference: 1. Low volume study without acute process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 6 ===
+Input: Frontal (on two cassettes) and lateral views of the chest with overlying external cardiac monitor leads show an unchanged cardiomediastinal silhouette. The cardiac silhouette remains markedly enlarged. There is aortic XXXX vascular calcification.
+Reference: Continued severe cardiomegaly and/or pericardial effusion. No acute pulmonary disease process identified.
+Prediction: No acute or active cardiac, pulmonary or pleural disease.
+
+=== Sample 7 ===
+Input: Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 8 ===
+Input: The heart is normal in size and contour. The lungs are clear bilaterally. The XXXX are intact.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 9 ===
+Input: Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal. No acute bony abnormality.
+Reference: Bronchovascular crowding versus atelectasis within the right lung base otherwise no acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 10 ===
+Input: The lungs are clear. Heart size normal. No pneumothorax.
+Reference: 1. Clear lungs. No radiographic evidence of tuberculosis. 2. Stable scoliosis XXXX. .
+Prediction: Clear lungs.
+
+=== Sample 11 ===
+Input: The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality..
+Prediction: No acute cardiopulmonary abnormality..
+
+=== Sample 12 ===
+Input: Normal heart size and mediastinal contours. Low lung volumes. No focal airspace consolidation.
+Reference: Low lung volumes, otherwise no acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 13 ===
+Input: Mildly prominent perihilar opacities, XXXX due to bronchovascular crowding. Heart size within normal limits. Cardiomediastinal silhouette is XXXX.
+Reference: No acute cardiopulmonary disease.
+Prediction: Mildly prominent perihilar opacities, XXXX due to bronchovascular crowding.
+
+=== Sample 14 ===
+Input: XXXX opacities projecting over the right apex and mediastinum on PA view are artifactual. Stable cardiomediastinal silhouette. Stable chronic coarse interstitial markings, without focal airspace disease or consolidation.
+Reference: 1. Stable chronic lung changes without acute cardiopulmonary abnormality.
+Prediction: 1. Stable cardiomegaly without acute cardiopulmonary process.
+
+=== Sample 15 ===
+Input: No focal lung consolidation. Heart size and pulmonary vascularity are within normal limits. Osseous structures are grossly intact.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 16 ===
+Input: The cardiac silhouette is enlarged. There are bibasilar airspace opacities left greater than right with small right pleural effusion. No visualized pneumothorax.
+Reference: Bibasilar airspace disease left greater than right with small effusions.
+Prediction: Cardiomegaly with small right pleural effusion.
+
+=== Sample 17 ===
+Input: The left lung is grossly clear. No focal consolidation or pneumothorax identified. Cardio mediastinal silhouette is stable compared to prior examinations.
+Reference: Large right pleural effusion with associated passive atelectasis of the right middle and lower lobes. Grossly clear left lung.
+Prediction: 1. No acute cardiopulmonary abnormality.
+
+=== Sample 18 ===
+Input: Redemonstration of moderate left pneumothorax which is unchanged from comparison. Left pleural catheter is again seen overlying the left upper lung at the level of the left 5th and 6th ribs. Cardiomediastinal silhouette is normal.
+Reference: No change in moderate left pneumothorax with left pleural drainage catheter again seen overlying the left upper lung.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 19 ===
+Input: Normal heart size. No focal air space consolidation, pneumothorax, pleural effusion, or pulmonary edema. Anterior osteophytes of the thoracic spine.
+Reference: No acute cardiopulmonary disease.
+Prediction: Normal chest exam.
+
+=== Sample 20 ===
+Input: No focal areas of pulmonary consolidation. No pneumothorax. The thoracic spine appears intact.
+Reference: 1. Limited chest radiograph examination without demonstration of an acute intrathoracic abnormality.
+Prediction: 1. No acute intrathoracic process.
+
+=== Sample 21 ===
+Input: Mild cardiomegaly. Small area of platelike atelectasis in left mid lung. No pneumothorax or pleural effusion.
+Reference: No active disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 22 ===
+Input: The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+Reference: No acute process.
+Prediction: No acute process.
+
+=== Sample 23 ===
+Input: The heart, pulmonary XXXX and mediastinum are within normal limits. There is no focal air space opacity to suggest a pneumonia. Both clavicles appear within normal limits on this limited radiographic evaluation.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 24 ===
+Input: The cardiac contours are normal. The lungs are clear. Mild dextrocurvature the spine.
+Reference: No acute process.
+Prediction: No acute process.
+
+=== Sample 25 ===
+Input: Lungs are clear bilaterally. Pulmonary vasculature is normal. No acute bony abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 26 ===
+Input: Normal heart size. No focal air space consolidation. No pneumothorax or pleural effusion.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 27 ===
+Input: No acute osseous abnormality. Bilateral hilar lymph XXXX. No focal area of consolidation, pleural effusion, pneumothorax.
+Reference: 1. No acute radiographic cardiopulmonary process.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 28 ===
+Input: Heart size and mediastinal contours appear within normal limits. No focal lung consolidation, pleural effusion or pneumothorax. No acute bony abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 29 ===
+Input: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+Reference: No acute cardiopulmonary findings. .
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 30 ===
+Input: Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. Mild degenerative changes are present in the spine.
+Reference: 1. No evidence of active disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 31 ===
+Input: Normal cardiomediastinal contours. No pneumothorax or large pleural effusions. Small focal retrocardiac lung opacity.
+Reference: Small left retrocardiac opacity, may represent minimal atelectasis or small focus of airspace disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 32 ===
+Input: There are low lung volumes. No focal infiltrate or effusion. No pneumothorax.
+Reference: No acute abnormality. Low volumes XXXX XXXX for the opportunity to assist in the care of your patient. If there are any questions about this examination please XXXX. XXXX XXXX, XXXX certified radiologist, at XXXX. .
+Prediction: Low lung volumes without acute cardiopulmonary disease.
+
+=== Sample 33 ===
+Input: The heart is normal in size and contour. No focal airspace disease. The XXXX are intact.
+Reference: No acute abnormality.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 34 ===
+Input: Heart size, cardiomediastinal silhouette, and pulmonary vasculature are within normal limits. There are no infiltrates, effusions, or pneumothorax.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 35 ===
+Input: The heart is normal in size and contour. The lungs are clear bilaterally. No large pleural effusion or pneumothorax.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 36 ===
+Input: Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. Lungs are clear. No acute osseous findings.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute pulmonary findings.
+
+=== Sample 37 ===
+Input: Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 38 ===
+Input: Streaky and patchy bibasilar opacities, triangular density projected over the heart on the lateral view. No definite pleural effusion seen, no typical findings of pulmonary edema. Considering differences in technical factors XXXX stable cardiomediastinal silhouette with normal heart size.
+Reference: Bibasilar opacities, right greater than left, features suggest a combination of consolidation and atelectasis
+Prediction: No acute findings
+
+=== Sample 39 ===
+Input: The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.
+Reference: No acute disease.
+Prediction: No acute disease.
+
+=== Sample 40 ===
+Input: There is stable cardiomegaly. Pulmonary vasculature is persistently enlarged. Prominent interstitium is stable.
+Reference: Stable cardiomegaly and XXXX of interstitial edema with small but increasing right pleural effusion.
+Prediction: Stable cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 41 ===
+Input: The outside x-XXXX is normal except for slight cardiomegaly.
+Reference: Heart size upper limits normal. Lungs are clear. No evidence of active tuberculosis. No change from prior exam.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 42 ===
+Input: The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality.. Specifically, no evidence of active tuberculous process.
+Prediction: No acute cardiopulmonary abnormality..
+
+=== Sample 43 ===
+Input: No focal airspace disease. No pneumothorax or effusions. Advanced degenerative change of the thoracic spine.
+Reference: No acute cardiopulmonary findings.
+Prediction: 1. No acute cardiopulmonary process.
+
+=== Sample 44 ===
+Input: Stable cardiomegaly. Crowded bronchovascular and interstitial markings XXXX related to low lung volumes and technique. Grossly stable appearance of the lungs compared to prior exam without overt edema or gross airspace consolidation.
+Reference: XXXX sternotomy XXXX and mediastinal postsurgical changes. Stable cardiomegaly. Crowded bronchovascular and interstitial markings XXXX related to low lung volumes and technique. Grossly stable appearance of the lungs compared to prior exam without overt edema or gross airspace consolidation.
+Prediction: Stable appearance of the lungs without overt edema or gross airspace consolidation.
+
+=== Sample 45 ===
+Input: Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No convincing acute bony findings.
+Reference: No acute cardiopulmonary abnormality identified.
+Prediction: No acute cardiopulmonary abnormality identified.
+
+=== Sample 46 ===
+Input: Minimally increased XXXX airspace opacities bilaterally, most prominent in the lung bases. No pneumothorax or pleural effusion. Osseous structures are grossly intact.
+Reference: Minimally increased air space opacities bilaterally, most prominent in the lung bases. Findings are nonspecific, but may represent subsegmental atelectasis versus mild interstitial edema or an atypical infectious process.
+Prediction: Minimally increased XXXX airspace opacities bilaterally, most prominent in the lung bases.
+
+=== Sample 47 ===
+Input: The cardiomediastinal silhouette is normal. Visualized bony structures are intact. Visualized soft tissues appear normal.
+Reference: Normal chest x-XXXX.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 48 ===
+Input: The trachea is midline. Negative for pneumothorax, pleural effusion, or focal airspace consolidation. The heart size is normal.
+Reference: 1. No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 49 ===
+Input: The cardiac fluid is now mildly enlarged. Pulmonary vasculature is increased with mildly increased interstitial markings and fissural thickening, suggesting mild pulmonary edema. There is no focal airspace disease, pneumothorax, or large pleural effusion.
+Reference: Cardiomegaly which appears XXXX from XXXX with probable mild pulmonary edema. .
+Prediction: 1. Cardiomegaly without acute cardiopulmonary disease. 2. Mild increased interstitial markings and fissural thickening, suggesting mild pulmonary edema.
+
+=== Sample 50 ===
+Input: The heart is near top normal in size with unfolding of the aorta. The lungs are grossly clear with no focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are grossly normal.
+Reference: Cardiomegaly, however no acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 51 ===
+Input: The heart is normal in size. The mediastinum is stable. The lungs are clear.
+Reference: No acute disease.
+Prediction: No acute disease.
+
+=== Sample 52 ===
+Input: Normal cardiomediastinal silhouette. Left-sided aortic XXXX. Pulmonary vasculatures are within normal limits.
+Reference: No acute pulmonary findings. .
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 53 ===
+Input: The lungs and pleural spaces show no acute abnormality. There are advanced degenerative changes of the glenohumeral joints bilaterally with bone-on-bone articulation, remodeling of the glenoid, and extensive subchondral cystic change. Diffuse osteopenia of the thoracic spine with a mid thoracic and several lower thoracic XXXX deformities, age-indeterminate.
+Reference: 1. No acute thoracic abnormality. 2. Cardiomegaly with marked tortuosity of the thoracic aorta. 3. Probable large hiatal hernia. 4. Limited evaluation of the thoracic spine secondary to osteopenia, age-indeterminate XXXX fracture deformities.
+Prediction: 1. No acute pulmonary abnormality.
+
+=== Sample 54 ===
+Input: There is persistent elevation of the right hemidiaphragm. The cardiac silhouette and mediastinal contours are within normal limits. There is no pneumothorax.
+Reference: Stable right-sided chronic lung scarring otherwise no acute cardiopulmonary disease.
+Prediction: Persistent elevation of the right hemidiaphragm. No acute cardiopulmonary findings.
+
+=== Sample 55 ===
+Input: There are diminished lung volumes. The cardiac silhouette is prominent but probably artifactually large due to diminished lung volumes. There is a deformity of the left clavicle compatible with remote XXXX.
+Reference: No evidence of acute cardiopulmonary process. Mediastinal and hilar adenopathy compatible with patient's known sarcoidosis.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 56 ===
+Input: Normal cardiomediastinal contours. No focal consolidation or pleural effusions. No pneumothorax.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 57 ===
+Input: Cardiomediastinal silhouette and pulmonary vasculature are stable and within normal limits. Lungs are clear. No acute osseous findings.
+Reference: No acute cardiopulmonary findings. Specifically, no radiographic evidence of active tuberculosis.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 58 ===
+Input: Mediastinal contours are normal. Lungs are clear. No bony abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: Negative chest
+
+=== Sample 59 ===
+Input: Redemonstrated left perihilar nodular opacity, similar in size from previous examination. The trachea is midline. However, no evidence for displaced rib fracture.
+Reference: 1. Left perihilar nodular opacity redemonstrated, appears dense, may be granulomatous, if desired one may consider CT for further characterization. 2. No acute cardiopulmonary abnormality. Redemonstrated azygos lobe. 3. No fracture visible. If clinical concern persists, consider dedicated rib series.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 60 ===
+Input: The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Osseous structures are within normal limits for patient age..
+Reference: 1. No acute radiographic cardiopulmonary process.
+Prediction: No acute radiographic cardiopulmonary process.
+
+=== Sample 61 ===
+Input: Left-sided XXXX/ICD device and leads are stable. Stable enlarged cardiac silhouette. No acute bony abnormality.
+Reference: Stable cardiomegaly without acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 62 ===
+Input: The heart is normal in size. The mediastinum is unremarkable. The lungs are hypoinflated but grossly clear.
+Reference: No acute disease.
+Prediction: No acute disease.
+
+=== Sample 63 ===
+Input: Lung volumes remain low. No infiltrates. Heart and pulmonary XXXX are normal.
+Reference: XXXX change. Hypoinflation with no visible active cardiopulmonary disease.
+Prediction: Low lung volumes without acute cardiopulmonary process.
+
+=== Sample 64 ===
+Input: Lungs are clear. Lungs are hyperexpanded with flattened diaphragms. XXXX and soft tissue are unremarkable.
+Reference: 1. Emphysematous changes. 2. Resolution of prior right midlung infiltrate.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 65 ===
+Input: There is no focal air space opacity to suggest a pneumonia. There are minimal degenerative changes of the spine. There is a normal bowel XXXX pattern.
+Reference: CHEST. No acute cardiopulmonary disease. ABDOMEN. Normal bowel XXXX pattern.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 66 ===
+Input: There are prominent epicardial fat pads, unchanged from prior. The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is atherosclerosis of the aortic XXXX.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 67 ===
+Input: Patchy opacities are demonstrated in the left lung base. No focal pulmonary consolidation. No pneumothorax.
+Reference: 1. Patchy left basilar subsegmental atelectasis, infiltrates and/or small left pleural effusion. .
+Prediction: Patchy opacities in the left lung base. No focal pulmonary consolidation.
+
+=== Sample 68 ===
+Input: Heart size and mediastinal contour within normal limits. No focal airspace consolidation, pneumothorax, or large pleural effusion. No acute osseous abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 69 ===
+Input: Mild blunting left costophrenic recess, possibly mild atelectasis or scarring. No confluent lobar consolidation or large volume pleural effusion. Thoracic spondylosis.
+Reference: Mild blunting left costophrenic recess, possibly mild atelectasis or scarring.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 70 ===
+Input: Heart size slightly upper normal. Lungs are hyperexpanded with flattening of the diaphragms consistent with emphysematous change. Degenerative changes of the spine are noted.
+Reference: 1. Emphysematous change without acute radiographic cardiopulmonary process.
+Prediction: Emphysematous change.
+
+=== Sample 71 ===
+Input: Heart size normal. Lungs are clear. XXXX are normal.
+Reference: Normal chest No evidence of sarcoidosis.
+Prediction: Normal chest
+
+=== Sample 72 ===
+Input: The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pneumothorax or pleural effusion.
+Reference: Negative chest .
+Prediction: Negative chest .
+
+=== Sample 73 ===
+Input: The lungs are without focal air space opacity. There is no pneumothorax or large pleural effusion. The cardiomediastinal silhouette is normal in size and contour.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 74 ===
+Input: The lungs are well-expanded and clear. There is no pneumothorax or effusion. There is XXXX deformity of the T9 vertebral body.
+Reference: 1. No evidence of acute cardiopulmonary process. 2. Scoliotic curvature of the spine with XXXX deformity of the T9 vertebral body.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 75 ===
+Input: Chest: Stable cardiomediastinal silhouette. Pulmonary vascularity is within normal limits. Negative for focal airspace disease or consolidation.
+Reference: Chest. Right shoulder. 1. No acute cardiopulmonary abnormality. 2. Negative for right shoulder fracture or dislocation.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 76 ===
+Input: Stable normal cardiomediastinal silhouette. Left lateral lung calcified granuloma. Stable degenerative changes of the thoracic spine.
+Reference: Chest radiograph. 1. No acute radiographic cardiopulmonary process.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 77 ===
+Input: Normal and stable cardiomediastinal contours. No pneumothorax, pleural effusions or significant pulmonary edema. No focal lung consolidation.
+Reference: 1. No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 78 ===
+Input: The lungs are well aerated. No pneumothorax, pleural effusion, or focal air space consolidation. Minimal scarring or atelectasis left lung base.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 79 ===
+Input: The heart size is upper limits of normal. Mediastinal contour appears normal and pulmonary vascularity is within normal limits. The visualized osseous structures appear intact.
+Reference: Borderline heart size. Otherwise, no acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 80 ===
+Input: No significant effusion. Clear right lung. Normal heart size.
+Reference: Patchy airspace disease in the lingula without evidence of effusion. Pneumonia is in the differential. A followup exam in 4 to 6 weeks should be considered to ensure resolution of this process.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 81 ===
+Input: The heart size and pulmonary vascularity appear within normal limits. Lungs are free of focal airspace disease. No discrete nodules or adenopathy are noted.
+Reference: No evidence of active disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 82 ===
+Input: Mild cardiomegaly. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+Reference: Mild cardiomegaly without heart failure.
+Prediction: Mild cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 83 ===
+Input: Lungs are clear. Cardiomediastinal silhouette is normal. There are minimal degenerative changes of the spine.
+Reference: No evidence of active disease.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 84 ===
+Input: The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Osseous structures are within normal limits for patient age..
+Reference: 1. No acute radiographic cardiopulmonary process.
+Prediction: No acute radiographic cardiopulmonary process.
+
+=== Sample 85 ===
+Input: The thoracic aorta is tortuous and calcified. No focal areas of pulmonary consolidation. No pneumothorax.
+Reference: 1. No acute cardiopulmonary process. 2., Mild, age-indeterminate wedge XXXX deformity of a midthoracic vertebral body.
+Prediction: 1. No acute cardiopulmonary process.
+
+=== Sample 86 ===
+Input: Normal heart size. No focal airspace consolidation, pneumothorax, pleural effusion, or pulmonary edema. No focal bony abnormality.
+Reference: No acute cardiothoracic abnormality.
+Prediction: Normal chest exam.
+
+=== Sample 87 ===
+Input: Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No convincing acute bony findings.
+Reference: No acute cardiopulmonary abnormality identified.
+Prediction: No acute cardiopulmonary abnormality identified.
+
+=== Sample 88 ===
+Input: The heart is large. In the interval, pulmonary venous engorgement has developed. Also, bibasilar interstitial infiltrates are present.
+Reference: Developing heart failure with pulmonary venous engorgement and bibasilar pulmonary interstitial edema.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 89 ===
+Input: There is no focal air space opacity to suggest a pneumonia. There is no pulmonary nodule identified. There is a left humerus prosthesis partly demonstrated.
+Reference: No acute cardiopulmonary disease. No evidence for metastatic disease by radiographic evaluation.
+Prediction: 1. No acute cardiopulmonary disease.
+
+=== Sample 90 ===
+Input: Cardiomediastinal silhouette stable. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact.
+Reference: Negative for acute cardiopulmonary disease.
+Prediction: Negative for acute cardiopulmonary disease.
+
+=== Sample 91 ===
+Input: The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.
+Reference: No acute disease.
+Prediction: No acute disease.
+
+=== Sample 92 ===
+Input: Normal cardiac contours. No pleural effusion or pneumothorax. Bilateral lower lobe bronchial thickening consistent with bronchitis.
+Reference: 1. Bilateral lower lobe bronchitis.
+Prediction: 1. No acute cardiopulmonary abnormalities.
+
+=== Sample 93 ===
+Input: The heart is mildly enlarged. The lungs are hypoinflated with mildly elevated left hemidiaphragm. Increased markings are noted throughout and were present on prior CT.
+Reference: Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks. IMPRESSION: Exam: CHEST 2V FRONTAL/LATERAL Date: XXXX, XXXX XXXX PM Comparison: CT chest XXXX History: Shortness of breath FINDINGS: The heart is mildly enlarged. The lungs are hypoinflated with mildly elevated left hemidiaphragm. There is patchy opacity in the left lung base which may be secondary to atelectasis and/or possible infiltrate. Increased markings are noted throughout and were present on prior CT. The study is limited secondary to moderate XXXX motion. Underlying emphysematous changes are identified. IMPRESSION: Hypoinflation with elevated left hemidiaphragm and possible left basilar infiltrate versus atelectasis. Followup evaluation is suggested in 2 to 4 weeks.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 94 ===
+Input: The heart is normal in size. The lungs remain hypoinflated with blunted costophrenic XXXX. There is no pneumothorax.
+Reference: Stable postsurgical changes of esophagectomy with improved bibasilar airspace opacities/atelectasis.
+Prediction: No acute disease.
+
+=== Sample 95 ===
+Input: Stable cardiomediastinal silhouette. Pulmonary vascularity is within normal limits. Lungs are expanded and clear airspace disease.
+Reference: 1. No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 96 ===
+Input: The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 97 ===
+Input: Heart size and mediastinal contours appear within normal limits. Pulmonary vascularity is within normal limits. Visualized osseous structures appear intact.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 98 ===
+Input: Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No convincing acute bony findings.
+Reference: No acute cardiopulmonary abnormality identified.
+Prediction: No acute cardiopulmonary abnormality identified.
+
+=== Sample 99 ===
+Input: There is no pneumothorax or pleural effusion. There are no focal areas of consolidation. There is a calcified granuloma right midlung and posterior costophrenic sulcus.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality. .
+
+=== Sample 100 ===
+Input: Heart size normal. Left ankle. Soft tissue XXXX around ankle.
+Reference: Chest. No acute cardiopulmonary finding. Right elbow and forearm. No acute traumatic finding. Left ankle. 1. No acute traumatic finding. 2. Midfoot degenerative changes and calcaneal enthesopathy.
+Prediction: Normal chest
+
+=== Sample 101 ===
+Input: The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Calcified granuloma, right base.
+Reference: Negative for acute abnormality.
+Prediction: Negative for acute abnormality.
+
+=== Sample 102 ===
+Input: There is a small right pleural effusion. There is infrahilar interstitial prominence which may represent bronchovascular crowding lung. Small left pleural effusion.
+Reference: Small bilateral pleural effusions and right infrahilar infiltrate versus bronchovascular crowding.
+Prediction: Small right pleural effusion which may represent bronchovascular crowding lung.
+
+=== Sample 103 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: No x-XXXX evidence of metastatic disease.
+Prediction: No acute findings.
+
+=== Sample 104 ===
+Input: The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality..
+Prediction: No acute cardiopulmonary abnormality..
+
+=== Sample 105 ===
+Input: Normal heart size and mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 106 ===
+Input: The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.
+Reference: No acute disease.
+Prediction: No acute disease.
+
+=== Sample 107 ===
+Input: The heart is normal in size and contour. The lungs are clear bilaterally. The XXXX are intact.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 108 ===
+Input: Pulmonary vascularity is normal. Lungs are hyperexpanded but clear. No pleural effusions or pneumothoraces.
+Reference: 1. Stable mild cardiomegaly. 2. Hyperexpanded but clear lungs.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 109 ===
+Input: Heart size is normal. Mediastinal contour and pulmonary vascularity within normal limits. No acute bony abnormality.
+Reference: Clear lungs, no acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 110 ===
+Input: There is no change in the strandy scarring in the right apex. Sacrum and sacroiliac joints are normal. Calcific aortic disease is present.
+Reference: 1. Chest. No change right upper lobe scar. No acute disease. 2. Lumbosacral spine. Multiple levels of advanced degenerative disc disease and XXXX arthritis.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 111 ===
+Input: Clear lungs. No pneumothorax. Normal heart.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 112 ===
+Input: Sequelae of old granulomatous disease. Lungs are overall hyperexpanded with flattening of the diaphragms. Prominent interstitial markings are again noted which are predominantly lower lobe and peripheral suggesting pulmonary fibrosis.
+Reference: 1. Overall stable appearance of the chest suggesting pulmonary fibrosis.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 113 ===
+Input: The lungs are clear. The heart and mediastinum are normal. The skeletal structures are notable for an old apparent fracture at T12-L1 or congenital fusion unchanged from the prior study.
+Reference: 1. No acute pulmonary disease. 2. Possible old injury or developmental anomaly partially T12-L1.
+Prediction: No acute pulmonary disease.
+
+=== Sample 114 ===
+Input: The trachea is midline. No large pneumothorax has developed in the interim. The overlying bony structures reveal no acute abnormalities.
+Reference: 1. Extensive pulmonary bronchiectasis and scarring from cystic fibrosis, not significantly XXXX from prior. 2. Left-sided medication injection XXXX has its tip projecting over the cavoatrial junction. .
+Prediction: 1. No acute cardiopulmonary abnormalities.
+
+=== Sample 115 ===
+Input: Cardiomediastinal silhouette is normal in size and contour. Pulmonary vasculature is normal in caliber. There are no acute bony findings.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 116 ===
+Input: No pneumothorax. No pneumonia. No pleural effusion.
+Reference: No acute cardiopulmonary disease.
+Prediction: 1. No acute cardiopulmonary findings.
+
+=== Sample 117 ===
+Input: Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. Degenerative changes are present in the spine.
+Reference: 1. No evidence of active disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 118 ===
+Input: The right lung appears clear. There is minimal patchy atelectasis or early infiltrate in left lung base. There are partially visualized surgical changes the cervical spine compatible with prior fusion procedure.
+Reference: Minimal patchy left basilar atelectasis or infiltrate.
+Prediction: 1. No acute cardiopulmonary disease.
+
+=== Sample 119 ===
+Input: The heart is mildly enlarged. The aorta is atherosclerotic and ectatic. Chronic parenchymal changes are noted with mild scarring and/or subsegmental atelectasis in the right lung base.
+Reference: Borderline cardiomegaly and mild chronic changes. No acute infiltrate.
+Prediction: Cardiomegaly without acute disease.
+
+=== Sample 120 ===
+Input: The heart size is within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax.
+Reference: 1. No acute abnormality. 2. Dextroscoliosis of thoracic spine unchanged. .
+Prediction: No acute abnormality.
+
+=== Sample 121 ===
+Input: The heart is normal in size and contour. There is focal airspace disease in the right middle lobe. There is no pneumothorax or effusion.
+Reference: Focal airspace disease in the right middle lobe. This is most concerning for pneumonia. Recommend follow up to ensure resolution.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 122 ===
+Input: The lungs are clear and hyperinflated. Heart size is normal. No pneumothorax.
+Reference: Hyperinflated lungs. No acute cardiopulmonary abnormality. .
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 123 ===
+Input: Heart is within normal limits. Negative for focal pulmonary consolidation, pleural effusion, or pneumothorax. Mild streaky opacity lateral right lung, atelectasis versus scarring.
+Reference: Small streaky opacity lateral right lung, subsegmental atelectasis versus scarring.
+Prediction: No acute abnormality.
+
+=== Sample 124 ===
+Input: Mild cardiomegaly. Lungs are clear. Soft tissues and showed unremarkable.
+Reference: No evidence of active tuberculosis.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 125 ===
+Input: Heart size normal. Lungs are clear. XXXX are normal.
+Reference: Normal chest No evidence of tuberculosis
+Prediction: Normal chest
+
+=== Sample 126 ===
+Input: Heart XXXX, mediastinum, XXXX, bony structures are unremarkable. Stable increased lung volumes consistent with chronic lung disease. No XXXX infiltrates noted.
+Reference: No radiographic evidence of acute cardiopulmonary disease
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 127 ===
+Input: The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. Deformity of the right clavicle related to remote XXXX is again seen.
+Reference: No evidence of acute cardiopulmonary process.
+Prediction: No evidence of acute cardiopulmonary process.
+
+=== Sample 128 ===
+Input: Chronic increased interstitial markings without evidence of focal infiltrate. No pleural effusion. Marked degenerative change of the XXXX, status post remote right humerus fracture.
+Reference: Chronic lung disease without acute findings.
+Prediction: 1. No acute cardiopulmonary disease.
+
+=== Sample 129 ===
+Input: The cardiomediastinal silhouette is within normal limits for appearance. No focal air is prominent consolidation. No pneumothorax.
+Reference: 1. No acute cardiopulmonary process. 2. Mild, age-indeterminate wedge XXXX deformity of a midthoracic vertebral body.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 130 ===
+Input: Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 131 ===
+Input: Normal cardiomediastinal contours. Clear lungs bilaterally. No pneumothorax or large effusion.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 132 ===
+Input: No focal consolidations. No pleural effusions. Bony structures are intact.
+Reference: No active disease.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 133 ===
+Input: The lungs appear to be clear. The heart and mediastinum are normal. The skeletal structures are normal.
+Reference: No active disease.
+Prediction: No acute pulmonary disease.
+
+=== Sample 134 ===
+Input: Cardiac size, mediastinal contour, and pulmonary vascularity are within normal limits. The visualized osseous structures appear intact. XXXX and curvilinear XXXX densities over the breast shadows compatible with piercings.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 135 ===
+Input: Tortuous aorta. Low lung volumes with no focal consolidations. Moderate degenerative disc disease in the midthoracic spine.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 136 ===
+Input: The lungs are otherwise clear. Heart size is normal. No pneumothorax.
+Reference: Left base atelectasis. Lungs otherwise clear. .
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 137 ===
+Input: The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits.
+Reference: No acute cardiopulmonary disease.
+Prediction: No evidence of acute cardiopulmonary process.
+
+=== Sample 138 ===
+Input: Lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax, or pleural effusion. Pulmonary vasculature is normal in caliber. There are no acute bony findings.
+Reference: Mildly hypoinflated, grossly clear lungs. .
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 139 ===
+Input: The lungs and pleural spaces show no acute abnormality. Minimal XXXX scarring in both lower lobes. Heart size and pulmonary vascularity within normal limits.
+Reference: 1. No acute pulmonary abnormality.
+Prediction: 1. No acute pulmonary abnormality.
+
+=== Sample 140 ===
+Input: The heart size and pulmonary vascularity appear within normal limits. Calcified granuloma are noted. Vascular calcification is noted.
+Reference: 1. Hyperexpanded lungs consistent with emphysema. 2. Pectus carinatum. 3. No evidence of acute disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 141 ===
+Input: Stable position of right central venous catheter. No pleural effusions or pneumothoraces. Normal pulmonary vascularity.
+Reference: No acute abnormality. Stable chest.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 142 ===
+Input: Heart size and mediastinal contours are normal in appearance. No consolidative airspace opacities. Visualized osseous structures appear intact.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 143 ===
+Input: The cardiomediastinal silhouette is normal in size and contour. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Normal XXXX.
+Reference: Low lung volumes, otherwise clear.
+Prediction: Negative for acute cardiopulmonary abnormality.
+
+=== Sample 144 ===
+Input: The heart is XXXX within normal limits in size given the low lung volumes an AP portable technique. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 145 ===
+Input: The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Cholecystectomy clips overlie the right upper quadrant.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 146 ===
+Input: Clear lungs. No pneumothorax. No acute bony abnormality.
+Reference: Normal chest exam.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 147 ===
+Input: The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 148 ===
+Input: The lungs are hyperexpanded with flattening of the bilateral hemidiaphragms. Mild increased lung markings XXXX due to chronic changes. No focal pulmonary consolidation.
+Reference: 1. Findings consistent with emphysema with interstitial thickening. This could be due to edema superimposed on emphysema or pneumonitis or fibrosis. XXXX chest if warranted clinically given recent onset of dyspnea. .
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 149 ===
+Input: Heart size is within normal limits. No focal airspace consolidations. No pneumothorax or pleural effusion.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 150 ===
+Input: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are no focal areas of consolidation.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 151 ===
+Input: There are low lung volumes with bronchovascular crowding as a result. No pleural effusion, pneumothorax or focal airspace disease. Cardiomediastinal silhouette is within normal limits.
+Reference: Low lung volumes. No acute pulmonary disease.
+Prediction: Low lung volumes without acute cardiopulmonary findings.
+
+=== Sample 152 ===
+Input: The heart size and mediastinal contours appear within normal limits. No pneumothorax. No acute bony abnormalities.
+Reference: Small left pleural effusion with left basilar atelectasis.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 153 ===
+Input: Normal heart size and mediastinal contours. No focal airspace consolidation. No pleural effusion or pneumothorax.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 154 ===
+Input: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+Reference: No acute cardiopulmonary findings. .
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 155 ===
+Input: The heart size is normal. No acute bony abnormalities. No effusion or infiltrate.
+Reference: 1. Hyperexpanded lungs. 2. Otherwise normal chest x-XXXX.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 156 ===
+Input: The heart size is upper limits of normal. The pulmonary XXXX and mediastinum are within normal limits. There is mild streaky perihilar opacity without confluent airspace opacity to suggest a bacterial pneumonia.
+Reference: Minimal perihilar opacity which could indicate an atypical pneumonia.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 157 ===
+Input: Mild cardiomegaly. Tortuous aorta. No pneumothorax or large pleural effusion.
+Reference: Asymmetric right medial apical opacity which may be attributable to the sternoclavicular joint. Upper lobe airspace disease or pulmonary nodule is not entirely excluded. Recommend XXXX XXXX chest and apical lordotic view of the chest to further evaluate. Findings and recommendations were discussed XXXX. XXXX in the XXXX department at XXXX a.m. XXXX/XXXX.
+Prediction: Mild cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 158 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: Negative chest x-XXXX.
+Prediction: No acute findings.
+
+=== Sample 159 ===
+Input: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+Reference: No acute cardiopulmonary findings. .
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 160 ===
+Input: The heart is near top normal in size with tortuosity of the aorta. The pulmonary vascular markings are symmetric and normal. There are low lung volumes with XXXX opacities consistent with focal atelectasis.
+Reference: Low lung volumes with XXXX opacities consistent with focal atelectasis.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 161 ===
+Input: The heart and mediastinum are unremarkable. The lungs are clear without infiltrate. There is no effusion or pneumothorax.
+Reference: 1. No acute cardiopulmonary disease.
+Prediction: 1. No acute pulmonary disease.
+
+=== Sample 162 ===
+Input: The lungs are clear, without evidence of acute infiltrate or effusion. There is no pneumothorax. The bony structures reveal no acute abnormalities.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities. .
+
+=== Sample 163 ===
+Input: No gross consolidation, atelectasis or infiltrate. No pleural fluid collection or pneumothorax. Cardiomediastinal silhouette is within normal limits.
+Reference: 1. Negative for acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 164 ===
+Input: Limited lateral projection. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion. Cardiomediastinal silhouette is unremarkable.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 165 ===
+Input: Lungs are clear bilaterally. Pulmonary vasculature is normal. No acute bony abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 166 ===
+Input: The cardiac silhouette, mediastinum, and pulmonary vasculature are unremarkable. No pleural fluid or pneumothorax is appreciated. Cholecystectomy clips are noted in the right upper quadrant.
+Reference: No acute abnormalities are seen. .
+Prediction: 1. Clear lungs.
+
+=== Sample 167 ===
+Input: Heart size and mediastinal contours appear within normal limits. No pneumothorax. No acute bony abnormality.
+Reference: Left lower lobe infiltrate.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 168 ===
+Input: There are T-spine osteophytes. There calcified costochondral cartilages. There is loss of disc XXXX of a midthoracic vertebral body.
+Reference: 1. Borderline cardiomegaly. 2. Age-indeterminate, XXXX chronic, XXXX deformity in the midthoracic spine.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 169 ===
+Input: The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. There are XXXX degenerative changes of the thoracic spine.
+Reference: No evidence of acute cardiopulmonary process.
+Prediction: No evidence of acute cardiopulmonary process.
+
+=== Sample 170 ===
+Input: Lungs are clear bilaterally. Pulmonary vasculature is normal. No acute bony abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 171 ===
+Input: The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+Reference: No acute process.
+Prediction: No acute process.
+
+=== Sample 172 ===
+Input: The cardiac contours are normal. Prior granulomatous disease. Thoracic spondylosis.
+Reference: No acute process.
+Prediction: No acute process.
+
+=== Sample 173 ===
+Input: Interval performance of anterior cervical spinal fusion, XXXX intact without complicating features. There is stable cardiomegaly, with persistent bibasilar opacities XXXX atelectasis and/or infiltrate. The visualized osseous structures demonstrate mild multilevel degenerative disc disease of the thoracolumbar spine, without acute osseous abnormality.
+Reference: Stable cardiomegaly and persistent minimal bibasilar atelectasis.
+Prediction: Cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 174 ===
+Input: The cardiomediastinal silhouette is normal. The lungs are clear. Visualized bony structures are normal.
+Reference: Normal chest x-XXXX.
+Prediction: Negative chest .
+
+=== Sample 175 ===
+Input: Heart size normal. Lungs are clear. XXXX are normal.
+Reference: Normal chest
+Prediction: Normal chest
+
+=== Sample 176 ===
+Input: Heart size normal. No pneumothorax, pleural effusion, or focal airspace disease. Bony structures appear intact.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: Normal chest exam.
+
+=== Sample 177 ===
+Input: Lung volumes are low. In the interval, a patchy infiltrate has developed in the right lower lobe. Heart and pulmonary XXXX are normal.
+Reference: XXXX. XXXX patchy right lower lobe infiltrate consistent with pneumonia.
+Prediction: Low lung volumes with patchy infiltrate in the right lower lobe.
+
+=== Sample 178 ===
+Input: The lungs are clear. No suspicious pulmonary mass or nodule is identified. Heart size and mediastinal contour are within normal limits.
+Reference: No evidence of active disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 179 ===
+Input: Low lung volumes with redemonstrated bronchovascular crowding. The trachea is midline. The cardiac silhouette size is borderline enlarged.
+Reference: 1. Borderline enlargement of cardiac silhouette, otherwise no acute cardiopulmonary abnormality. No evidence for active TB.
+Prediction: 1. No acute cardiopulmonary findings.
+
+=== Sample 180 ===
+Input: There is a calcified granuloma in the right lower lobe. The lungs are mildly hypoinflated but grossly clear of focal airspace disease, pneumothorax or pleural effusion. No acute, displaced fractures are demonstrated.
+Reference: No acute findings. .
+Prediction: No acute cardiopulmonary abnormality. .
+
+=== Sample 181 ===
+Input: Normal heart size and mediastinal contours. No abnormal airspace opacities. No pleural effusion or pneumothorax.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 182 ===
+Input: Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. No pleural effusions or pneumothoraces.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 183 ===
+Input: The heart size is upper limits of normal. The pulmonary XXXX and mediastinum are within normal limits. There is no focal air space opacity to suggest a pneumonia.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 184 ===
+Input: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 185 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: Negative chest x-XXXX.
+Prediction: No acute findings.
+
+=== Sample 186 ===
+Input: Stable cardiomegaly. Stable mild bilateral interstitial opacities in which may represent mild pulmonary edema. No evidence of large pleural effusion or pneumothorax.
+Reference: Stable cardiomegaly and mild bilateral interstitial opacities which represent mild pulmonary edema.
+Prediction: Stable cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 187 ===
+Input: The cardiomediastinal silhouette is within normal limits. The lungs are clear without areas of focal consolidation. No acute bone abnormality.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 188 ===
+Input: The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute osseus abnormality.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 189 ===
+Input: There is hyperexpansion, hyperlucency of both lungs, as well as flattening of the diaphragm consistent with chronic emphysematous lung disease. No focal consolidation, pneumothorax, or large pleural effusion identified (blunting of costophrenic recesses bilaterally may represent small effusions or pleural thickening/scar. Acute osseous abnormality.
+Reference: Changes of chronic emphysematous lung disease without acute cardiopulmonary abnormality identified.
+Prediction: Emphysematous lung disease without acute cardiopulmonary abnormality.
+
+=== Sample 190 ===
+Input: No focal areas of pulmonary consolidation. The thoracic spine appears intact. No acute, displaced rib fractures.
+Reference: 1. Pulmonary hypoinflation. Otherwise, no acute intrathoracic abnormality.
+Prediction: No acute intrathoracic abnormality.
+
+=== Sample 191 ===
+Input: Diffusely coarsened interstitial markings are noted consistent with chronic lung disease, with worsened patchy opacities and a left apex and right base. No pneumothorax or pleural effusion. No acute bony abnormality.
+Reference: Changes of chronic interstitial lung disease with ill-defined patchy left apical and right basilar airspace disease. PA and lateral chest radiograph may be of benefit XXXX clinically feasible.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 192 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: No acute preoperative findings
+Prediction: No acute findings.
+
+=== Sample 193 ===
+Input: Stable XXXX XXXX, including elongation of the left ventricle and tortuous thoracic aorta. Subcarinal calcified lymph XXXX. Negative for acute bone abnormality.
+Reference: Negative for acute abnormality. Left ventricular enlargement. Tortuous thoracic aorta.
+Prediction: Negative for acute abnormality.
+
+=== Sample 194 ===
+Input: The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality..
+
+=== Sample 195 ===
+Input: Postoperative changes from spinal rods are demonstrated. There is elevation of the left hemidiaphragm. Multiple colonic loops are demonstrated in the left upper quadrant.
+Reference: 1. No active cardiopulmonary disease. 2. Left humeral head is positioned anterior and inferior to the glenoid, concerning for anterior shoulder subluxation. This is XXXX related to the muscular dystrophy and decreased shoulder muscles support. 3. XXXX postoperative changes from the spinal XXXX placement.
+Prediction: 1. Elevated left hemidiaphragm. 2. Multiple colonic loops.
+
+=== Sample 196 ===
+Input: Mild cardiomegaly is unchanged. No acute bony abnormalities. Right upper quadrant surgical clips.
+Reference: Stable appearance of the chest. No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 197 ===
+Input: Cardiomediastinal silhouette is within normal limits. No acute bony abnormality is identified. No pneumothorax or effusion identified.
+Reference: Minimal right basilar airspace disease, XXXX right middle lobe.
+Prediction: 1. No acute cardiopulmonary abnormality.
+
+=== Sample 198 ===
+Input: Lungs are clear bilaterally. Pulmonary vasculature is normal. No acute bony abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 199 ===
+Input: There is mild cardiomegaly. Aorta is heavily calcified and tortuous, consistent with atherosclerotic disease. There are diffuse increased interstitial opacities identified.
+Reference: 1. Cardiomegaly with diffuse interstitial opacities. Findings may be secondary to pulmonary edema. Atypical infection is another consideration.
+Prediction: 1. Mild cardiomegaly without acute cardiopulmonary disease.
+
+=== Sample 200 ===
+Input: There is redemonstration of an AICD with the left chest wall with stable intact XXXX placement. Surgical cervical XXXX is redemonstrated. No visible pneumothorax or pleural effusion is seen.
+Reference: 1. Stable AICD with intact XXXX replacement. 2. No acute radiographic cardiopulmonary process. .
+Prediction: Redemonstration of an AICD with the left chest wall with stable intact XXXX placement.
+
+=== Sample 201 ===
+Input: Heart and mediastinum are at the upper limits of normal size. There is no focal consolidation, pneumothorax, or large pleural effusion. There is no acute, displaced rib fracture.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 202 ===
+Input: Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. Lungs are clear.
+Reference: No acute cardiopulmonary process
+Prediction: Negative chest.
+
+=== Sample 203 ===
+Input: Compared to prior examination, XXXX stent has been removed. Stable mild atherosclerotic calcifications of the aortic XXXX are noted. There are mildly low lung volumes without focal consolidation, pneumothorax, or effusion identified.
+Reference: Interval removal of XXXX stent without acute cardiopulmonary abnormality.
+Prediction: Stable mild cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 204 ===
+Input: XXXX scar in the right lateral midlung. Adjacent focal pleural thickening is noted. Chronic blunting of both lateral costophrenic XXXX.
+Reference: 1. No acute pulmonary abnormality.
+Prediction: 1. No acute cardiopulmonary abnormality.
+
+=== Sample 205 ===
+Input: Lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen. No discrete nodules are identified.
+Reference: This is XXXX since the previous study. 1. Clear lungs. 2. Apparent old rib fractures in the left anterior chest.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 206 ===
+Input: There are surgical clips in the left mediastinum. There is no pneumothorax. There is a small left pleural effusion.
+Reference: 1. Small left pleural effusion. 2. Mediastinal adenopathy noted but better evaluated on the XXXX XXXX CT.
+Prediction: Small left pleural effusion.
+
+=== Sample 207 ===
+Input: Heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No nodules or adenopathy is identified.
+Reference: No evidence of active disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 208 ===
+Input: Normal heart. No focal infiltrate. Midline trachea.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 209 ===
+Input: There are XXXX opacities in the left lung, XXXX subsegmental atelectasis. Heart size is at the upper limits of normal. There are diffuse degenerative changes of the spine.
+Reference: No acute findings. Left mid lung subsegmental atelectasis.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 210 ===
+Input: The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. No pleural effusion or pneumothorax is seen.
+Reference: 1. No evidence of active disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 211 ===
+Input: Frontal and lateral views of the chest with overlying external cardiac monitor leads show normal size and configuration of the cardiac silhouette. Normal pulmonary vasculature and central airways. No focal airspace consolidation or pleural effusion.
+Reference: Nonspecific interstitial prominence and basilar patchy airspace disease. Maybe due to pulmonary fibrosis, scarring and/or atelectasis. Comparison with outside previous films may be useful.
+Prediction: No acute or active cardiac, pulmonary or pleural disease.
+
+=== Sample 212 ===
+Input: The cardiac silhouette and mediastinum size are within normal limits. There is no focal consolidation. There is no evidence of pneumothorax.
+Reference: Normal chest x-XXXX.
+Prediction: No evidence of acute cardiopulmonary disease.
+
+=== Sample 213 ===
+Input: Interval development of mild patchy airspace opacities within the posterior aspect of the right upper lobe, concerning for underlying pneumonia. Stable mild background chronic interstitial changes. No evidence of associated pleural effusion or pneumothorax.
+Reference: 1. Suspected mild patchy right upper lobe pneumonia, for which clinical correlation is recommended.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 214 ===
+Input: No focal consolidation, suspicious pulmonary opacity, pneumothorax or definite pleural effusion. Heart size and pulmonary vascularity within normal limits, visualized osseous structures appear intact.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 215 ===
+Input: Cardiac silhouette is normal in size. Normal mediastinal contour and pulmonary vasculature. The lungs are without focal airspace consolidation, large pleural effusion, or pneumothoraces.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 216 ===
+Input: Heart size normal. Lungs are clear. XXXX are normal.
+Reference: Normal chest
+Prediction: Normal chest
+
+=== Sample 217 ===
+Input: Marked bullous emphysematous changes and traction bronchiectasis, again most notable involving the bilateral upper lobes. No XXXX areas of alveolar airspace consolidation are identified. No evidence of pleural effusion or pneumothorax.
+Reference: 1. Marked bullous emphysematous changes and traction bronchiectasis, again most notable involving the bilateral upper lobes. Stable suspected superimposed left upper lobe aspergilloma - as more readily demonstrated on the previous CT chest study from XXXX.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 218 ===
+Input: Heart size within normal limits. Pulmonary vascularity is normal. Bony structures unremarkable.
+Reference: Atelectasis versus scar left lung base. Otherwise unremarkable. XXXX XXXX for the opportunity to assist in the care of your patient. If there are any questions about this examination please XXXX. XXXX, XXXX certified radiologist, at XXXX.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 219 ===
+Input: There extremely low lung volumes. there is right basilar opacity. There is no pneumothorax.
+Reference: Low lung volumes with right basilar atelectasis. Otherwise, no acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 220 ===
+Input: The lungs are clear, and without focal airspace opacity. The cardiomediastinal silhouette is enlarged. There is no pneumothorax or large pleural effusion.
+Reference: Cardiomegaly, but no focal consolidation.
+Prediction: 1. No acute cardiopulmonary process.
+
+=== Sample 221 ===
+Input: The cardiomediastinal silhouette is normal, unchanged from prior. The visualized bony structures reveal no acute abnormalities. Lateral view reveals mild degenerative changes of the thoracic spine.
+Reference: 1. Low lung volumes with subsequent bronchovascular crowding and bibasilar atelectasis. .
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 222 ===
+Input: Heart size within normal limits. No focal airspace disease. No effusions.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 223 ===
+Input: Normal cardiomediastinal silhouette. Interval improvement in lung volumes bilaterally. Bilateral small pleural effusions and left base atelectatic change, with interval improvement.
+Reference: Interval improvement in aeration of lung bases and pleural effusions. Residual small left effusion and questionable small right pleural effusion.
+Prediction: Bilateral small pleural effusions and left base atelectasis.
+
+=== Sample 224 ===
+Input: Stable hyperinflation, bilateral upper lobe pleuroparenchymal near and nodular irregularities, right greater than left, XXXX opacities in the peripheral right lung most compatible with scarring. No typical findings of pulmonary edema. Osseous demineralization, stable appearance of T9 and T12 XXXX fractures.
+Reference: Chronic changes as described, no acute findings
+Prediction: 1. No acute cardiopulmonary findings.
+
+=== Sample 225 ===
+Input: The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits. No displaced rib fractures.
+Reference: 1. Hyperexpansion without acute pulmonary abnormality.
+Prediction: 1. No acute pulmonary process.
+
+=== Sample 226 ===
+Input: The cardiac silhouette mediastinal contours are within normal limits. There is no pneumothorax. There is no focal opacity.
+Reference: After further review with staff radiologist there is a right upper lobe focal opacity XXXX reflecting pneumonia.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 227 ===
+Input: The lungs are clear, without evidence of acute infiltrate or effusion. There is no evidence of tuberculous disease. Visualized bony structures reveal no acute abnormalities.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 228 ===
+Input: Lungs are clear. Heart size normal. The XXXX are unremarkable.
+Reference: No acute cardiopulmonary finding.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 229 ===
+Input: The lungs are clear bilaterally. Visualized osseous structures of the thorax are without acute abnormality. Gastrostomy tube is noted.
+Reference: No acute cardiopulmonary abnormality..
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 230 ===
+Input: Stable cardiomegaly, XXXX at XXXX partially accentuated by low lung volumes. No focal consolidation, pneumothorax or large pleural effusion. T-spine osteophytes.
+Reference: Stable cardiomegaly without heart failure.
+Prediction: Stable cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 231 ===
+Input: The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Normal XXXX.
+Reference: Negative for acute abnormality.
+Prediction: Normal chest radiograph.
+
+=== Sample 232 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: Negative chest x-XXXX.
+Prediction: No acute findings.
+
+=== Sample 233 ===
+Input: The heart and mediastinum are normal in size and contour. There is no focal airspace opacity, pleural effusion, or pneumothorax. There are degenerative changes in the thoracic spine.
+Reference: No acute cardiopulmonary finding. Specifically there is no evidence of active tuberculosis infection.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 234 ===
+Input: There is mild tortuosity of the thoracic aorta. No consolidating airspace disease is seen. No pleural effusion or pneumothorax.
+Reference: No acute abnormality identified.
+Prediction: Mild tortuosity of the thoracic aorta. No radiographic evidence of acute cardiopulmonary disease.
+
+=== Sample 235 ===
+Input: The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease. Calcified granuloma are noted.
+Reference: 1. A few basilar XXXX of opacity. This may represent scarring or atelectasis.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 236 ===
+Input: The lungs are mildly hyperinflated, with upper lobe areas of lung lucency suggesting obstructive pulmonary disease and emphysema. No superimposed focal airspace consolidation is seen. No pleural effusion or pneumothorax.
+Reference: Emphysema.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 237 ===
+Input: There is a left subphrenic crescentic lucency, this is concerning for pneumoperitoneum. There are low lung volumes and bilateral moderate to large pleural effusions with bibasilar atelectasis/airspace disease that are larger in size in comparison to the prior exam. The left central venous catheter tip overlies the lower SVC.
+Reference: 1. Concern for left subphrenic free air. Verification with abdominal decubitus views is recommended for further evaluation. 2. Interval increase in size of the moderate to large bilateral pleural effusions with bibasilar atelectasis/airspace disease. 3. Left central venous catheter in unchanged position. 4. Interval placement of feeding tube the courses beneath the diaphragm and out of the XXXX-of-view.
+Prediction: Left basilar atelectasis/airspace disease. This is concerning for pneumoperitoneum.
+
+=== Sample 238 ===
+Input: The heart is normal in size and contour. The lungs are clear bilaterally. The XXXX are intact.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 239 ===
+Input: Normal heart size. Increased retrosternal airspace. No focal infiltrate.
+Reference: No acute findings.
+Prediction: 1. No acute cardiopulmonary disease.
+
+=== Sample 240 ===
+Input: Low lung volumes are present. The heart size and pulmonary vascularity appear within normal limits. The lungs are free of focal airspace disease.
+Reference: No evidence of active disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 241 ===
+Input: The cardiomediastinal silhouette is normal. The lungs are clear, without evidence of focal infiltrate or effusion. The visualized bony structures reveal no acute abnormalities.
+Reference: 1. No acute cardiopulmonary abnormalities. 2. No displaced rib fractures are seen. .
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 242 ===
+Input: Normal pulmonary vascularity. Minimal streaky bibasilar opacities. Upper abdominal surgical changes.
+Reference: 1. Mild cardiomegaly without pulmonary edema. 2. Minimal bibasal subsegmental atelectasis/scar. 3. Very small left pleural effusion.
+Prediction: Minimal streaky bibasilar opacities.
+
+=== Sample 243 ===
+Input: No focal consolidation, pneumothorax, or pleural effusion. No acute bony abnormality identified. Multilevel degenerative disc disease of the thoracic spine noted.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 244 ===
+Input: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size. The lungs are clear of focal airspace disease, pneumothorax, or pleural effusion. There are no acute bony findings.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 245 ===
+Input: Heart size and mediastinal contours appear within normal limits. Pulmonary vascularity is within normal limits. Visualized osseous structures appear intact.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 246 ===
+Input: The lungs are free of any focal infiltrates. No visible pneumothorax. No visible pleural fluid.
+Reference: No acute radiographic cardiopulmonary process.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 247 ===
+Input: Normal heart size and hilar vascular markings. Evidence of prior granulomatous disease. There are no acute osseous abnormalities present.
+Reference: 1. No acute radiographic cardiopulmonary process.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 248 ===
+Input: The cardiomediastinal silhouette is normal in size and contour. Hyperexpanded lungs without focal consolidation, pneumothorax or large pleural effusion. Normal XXXX.
+Reference: Mild lung hyperexpansion, otherwise clear.
+Prediction: Hyperexpanded lungs without acute cardiopulmonary abnormality.
+
+=== Sample 249 ===
+Input: Normal heart size. No pneumothorax. No pleural effusion.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: Normal chest exam.
+
+=== Sample 250 ===
+Input: The heart and mediastinum are unremarkable. The lungs are clear without infiltrate. There is no effusion or pneumothorax.
+Reference: 1. No acute cardiopulmonary disease.
+Prediction: 1. No acute pulmonary disease.
+
+=== Sample 251 ===
+Input: Stable appearance of hiatal hernia. Normal cardiac contour. No pneumothorax or pleural effusion.
+Reference: 1. Round area of density measuring 1.9 x 1.8 cm in left superior lower lobe with interval increased size compared to prior imaging. Recommend XXXX chest, abdomen and pelvis with contrast for further evaluation. Dr. XXXX XXXX notified by the Veriphy critical result notification XXXX of the left pulmonary mass and recommended followup XXXX chest, abdomen and pelvis with contrast at XXXX XXXX/XXXX.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 252 ===
+Input: The cardiomediastinal silhouette is normal in size and contour. No focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.
+Reference: Negative for acute abnormality.
+Prediction: Negative for acute abnormality.
+
+=== Sample 253 ===
+Input: No focal areas of pulmonary consolidation. No pneumothorax. No acute, displaced rib fractures identified.
+Reference: 1. No acute intrathoracic abnormality.
+Prediction: 1. No acute intrathoracic abnormality.
+
+=== Sample 254 ===
+Input: The heart is normal in size and contour. No focal air space disease. The XXXX are intact.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 255 ===
+Input: The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+Reference: No acute process.
+Prediction: No acute process.
+
+=== Sample 256 ===
+Input: Heart size upper limits normal. Vascularity normal.Calcified breast implants obscure some detail. Lungs are clear.
+Reference: Borderline cardiomegaly, otherwise unremarkable exam.
+Prediction: Normal chest
+
+=== Sample 257 ===
+Input: No pleural effusion or pneumothorax. Mild medial right atelectasis. Mild emphysema.
+Reference: Emphysema and mild medial right atelectasis. No acute process.
+Prediction: 1. No acute cardiopulmonary process.
+
+=== Sample 258 ===
+Input: Normal heart size and mediastinal contours. The lungs are clear. No acute bony abnormalities.
+Reference: No acute cardiopulmonary process. No obvious rib fractures. .
+Prediction: Negative chest x-XXXX.
+
+=== Sample 259 ===
+Input: Normal heart size and mediastinal contours. Calcified granuloma in the anterior segment of the right lower lobe. Coronary artery stent.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 260 ===
+Input: The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pneumothorax or pleural effusion.
+Reference: Negative chest .
+Prediction: Negative chest .
+
+=== Sample 261 ===
+Input: The heart silhouette is normal in size and contour. Aortic XXXX appear unremarkable. There is no effusion or pneumothorax.
+Reference: 1. Left upper lobe pneumonia.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 262 ===
+Input: The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are grossly unchanged. Right lung calcified granulomata are again seen.
+Reference: No acute cardiothoracic disease or significant interval change.
+Prediction: No evidence of acute cardiopulmonary process.
+
+=== Sample 263 ===
+Input: The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. Osseous structures are within normal limits for patient age.
+Reference: 1. No active disease.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 264 ===
+Input: Heart size and mediastinal contours are unremarkable. There is no pneumothorax, pleural effusion, focal airspace consolidation.
+Reference: No acute cardiopulmonary findings.
+Prediction: 1. Clear lungs.
+
+=== Sample 265 ===
+Input: Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No convincing acute bony findings.
+Reference: No acute cardiopulmonary abnormality identified.
+Prediction: No acute cardiopulmonary abnormality identified.
+
+=== Sample 266 ===
+Input: Heart size and pulmonary vascular engorgement appear within limits of normal. Mediastinal contour is unremarkable. No convincing acute bony findings.
+Reference: No acute cardiopulmonary abnormality identified.
+Prediction: No acute cardiopulmonary abnormality identified.
+
+=== Sample 267 ===
+Input: The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 268 ===
+Input: There is scarring in the right mid and upper lung zone with surgical clips identified as well. The heart is not significantly enlarged. Arthritic changes of the skeletal structures are noted.
+Reference: No acute pulmonary disease.
+Prediction: No acute pulmonary disease.
+
+=== Sample 269 ===
+Input: Both lungs are clear and expanded. Heart and mediastinum normal. XXXX-A-XXXX XXXX has its tip at the caval atrial junction.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 270 ===
+Input: Heart size and mediastinal contour are normal. Pulmonary vascularity is normal. No visible pneumothorax.
+Reference: Mild interstitial prominence, XXXX chronic though could reflect early pulmonary edema.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 271 ===
+Input: The heart, pulmonary XXXX and mediastinum are within normal limits. There is no focal air space opacity to suggest a pneumonia. There is a left lung calcified granuloma noted.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 272 ===
+Input: The cardiac contours are normal. The lungs are clear. Stable granuloma in the left lower lung zone.
+Reference: No acute findings.
+Prediction: No acute process.
+
+=== Sample 273 ===
+Input: Normal heart size. Clear, hyperaerated lungs. No pneumothorax.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 274 ===
+Input: The lungs are hypoinflated with central bronchovascular crowding but no evidence of overt pulmonary edema. The lungs are grossly clear of focal airspace disease, pneumothorax, pleural effusion. There are no acute bony findings.
+Reference: 1. Suspected cardiomegaly, less XXXX pericardial effusion. Prior comparison studies would be helpful. 2. Low lung volumes. No evidence of focal airspace disease. .
+Prediction: Hypoinflation without acute cardiopulmonary findings.
+
+=== Sample 275 ===
+Input: Low lung volumes. Heart size normal. No focal airspace consolidations.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 276 ===
+Input: The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 277 ===
+Input: The heart is enlarged with unfolding of the aorta. There is prominence of the interstitial markings with fluid in the fissures consistent with interstitial edema. There is no focal airspace opacity, large pleural effusion, or pneumothorax.
+Reference: 1. Interstitial pulmonary edema. 2. Cardiomegaly.
+Prediction: 1. Cardiomegaly without acute pulmonary disease.
+
+=== Sample 278 ===
+Input: The heart and mediastinal contours are stable. Aorta is calcified and tortuous, compatible with atherosclerotic disease. The right lung is clear.
+Reference: 1. Interval development of left lower lobe airspace disease. This may be due to atelectasis or infiltrate.
+Prediction: 1. No acute cardiopulmonary disease.
+
+=== Sample 279 ===
+Input: Cardiac and mediastinal contours are unremarkable. Pulmonary vascularity is within normal limits. This could suggest emphysematous bullae.
+Reference: 1. No active disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 280 ===
+Input: The lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax. The osseous structures are intact. XXXX XXXX in the soft tissues of the right upper extremity.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 281 ===
+Input: Atherosclerosis of the aortic XXXX. No focal consolidation, pneumothorax or large pleural effusion. T-spine osteophytes.
+Reference: Negative for acute abnormality.
+Prediction: No acute abnormality.
+
+=== Sample 282 ===
+Input: The lungs are clear without evidence of focal airspace disease. The cardiac contour is within normal limits. There are mild degenerative changes of the thoracic spine.
+Reference: XXXX prominence of the mediastinal contour near the right hilum possibly representing the ascending aorta or mediastinal lymphadenopathy. CT chest with contrast may be helpful for further evaluation.
+Prediction: No radiographic evidence of active disease.
+
+=== Sample 283 ===
+Input: The trachea is midline. The heart size is at the upper limits of normal. Calcified granuloma in the right lower lobe is stable in appearance XXXX compared to the previous examinations.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: 1. No acute cardiopulmonary abnormality.
+
+=== Sample 284 ===
+Input: There is no pulmonary edema. There is no focal consolidation. There is no evidence of pneumothorax.
+Reference: There is no evidence of acute cardiopulmonary disease. .
+Prediction: No evidence of acute cardiopulmonary disease.
+
+=== Sample 285 ===
+Input: The heart size and mediastinal contours appear within normal limits. No focal airspace consolidation, pleural effusion or pneumothorax. No acute bony abnormalities.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 286 ===
+Input: Both lungs are clear and expanded. Heart and mediastinum normal. The medial compartment is markedly narrow.
+Reference: 1. Chest. No active disease. 2. The knee. Advanced degenerative joint disease.
+Prediction: No active disease.
+
+=== Sample 287 ===
+Input: Lungs are clear bilaterally with no focal infiltrate, pleural effusion, or pneumothoraces. Cardiomediastinal silhouette is within normal limits. No acute bony or soft tissue abnormality.
+Reference: No acute cardiopulmonary abnormality. .
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 288 ===
+Input: No focal lung consolidation. There is a kyphosis and osteopenia of the thoracic spine. No displaced rib fractures.
+Reference: No focal lung consolidation. COPD. No displaced fractures.
+Prediction: 1. No acute cardiopulmonary process.
+
+=== Sample 289 ===
+Input: The cardiomediastinal silhouette and vasculature are within normal limits for size and contour. The lungs are normally inflated and clear. Degenerative changes of the spine..
+Reference: 1. No acute radiographic cardiopulmonary process.
+Prediction: No acute radiographic cardiopulmonary process.
+
+=== Sample 290 ===
+Input: The cardiomediastinal silhouette is normal in size and contour. There is a XXXX like deformity of the anterior cortex of the XXXX body (lateral view). Prior cholecystectomy.
+Reference: Buckling deformity of the anterior cortex of the XXXX body. Fracture is possible, if high energy XXXX was localized to this region. Correlate with focal tenderness. XXXX chest, if warranted.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 291 ===
+Input: Heart size is at the upper limits of normal. The pulmonary vascularity appears within normal limits. The lungs are free of focal airspace disease.
+Reference: 1. No evidence of active disease.
+Prediction: 1. No evidence of active disease.
+
+=== Sample 292 ===
+Input: No suspicious pulmonary opacities. No pleural effusions. No evidence of pneumothorax.
+Reference: No acute cardiopulmonary abnormality. .
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 293 ===
+Input: The lungs are free of any focal infiltrates. There are no nodules or masses. No visible pleural fluid.
+Reference: 1. No acute radiographic cardiopulmonary process.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 294 ===
+Input: The heart is normal in size and contour. The lungs are clear bilaterally. Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate.
+Reference: 1. No acute cardiopulmonary abnormalities. Specifically, no pneumothorax. 2. Fractures of the posterior left 4th, 5th, and 6th ribs, age-indeterminate.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 295 ===
+Input: Normal heart size and mediastinal contours. No focal airspace consolidation. No pneumothorax.
+Reference: No acute pulmonary abnormalities.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 296 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: No acute findings.
+Prediction: No acute findings.
+
+=== Sample 297 ===
+Input: These appear similar to the patient's previous chest CT and are XXXX the sequela of prior granulomatous disease. The lungs are otherwise clear without infiltrate. There is no effusion or pneumothorax.
+Reference: 1. Evidence of prior granulomatous disease, stable. No acute abnormality.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 298 ===
+Input: The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+Reference: No acute findings.
+Prediction: No acute process.
+
+=== Sample 299 ===
+Input: There is no focal consolidation. There is no pneumothorax. There is no acute bony abnormality seen.
+Reference: There is no radiographic evidence of acute cardiopulmonary disease.
+Prediction: No radiographic evidence of acute cardiopulmonary disease.
+
+=== Sample 300 ===
+Input: The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 301 ===
+Input: The cardiomediastinal contours are within normal limits. Pulmonary vasculature is unremarkable. No acute bony abnormality is identified.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 302 ===
+Input: The heart and lungs have XXXX XXXX in the interval. Both lungs are clear and expanded. Heart and mediastinum normal.
+Reference: No active disease.
+Prediction: No active disease.
+
+=== Sample 303 ===
+Input: No focal areas of consolidation. No suspicious pulmonary opacities. No pleural effusions.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: 1. No acute cardiopulmonary abnormality.
+
+=== Sample 304 ===
+Input: No pneumothorax, pleural effusion, or focal airspace disease. Nodular densities consistent with chronic granulomatous disease. Bony structures appear intact.
+Reference: Negative for acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 305 ===
+Input: The cardiomediastinal silhouette and pulmonary vasculature are within normal limits. There is no pneumothorax or pleural effusion. There are T-spine osteophytes.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 306 ===
+Input: The cardiac contours are normal. The lungs are clear. Thoracic spondylosis.
+Reference: No acute preoperative findings.
+Prediction: No acute process.
+
+=== Sample 307 ===
+Input: Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues unremarkable.
+Reference: Negative for acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 308 ===
+Input: XXXX onset right basal atelectasis with airspace disease and effusion suggestive of the chest infection. Stable cardiomegaly and features of CABG. Interval XXXX removal of left PICC line, no pneumothorax.
+Reference: XXXX onset right basal chest infection
+Prediction: Stable cardiomegaly with airspace disease and effusion suggestive of the chest infection.
+
+=== Sample 309 ===
+Input: The heart and cardiomediastinal silhouette are normal. There is no focal airspace opacity, pleural effusion, pneumothorax. The osseous structures are intact.
+Reference: No acute cardiopulmonary finding.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 310 ===
+Input: AP and lateral view of the chest.
+Reference: 1. Cardiomegaly with central vascular congestion and increased interstitial opacities suggesting mild interstitial pulmonary edema. 2. Small bilateral pleural effusions. 3. No visible pneumothorax.
+Prediction: No acute or active chest disease.
+
+=== Sample 311 ===
+Input: The lungs are clear. The cardiomediastinal silhouette is within normal limits. No pleural effusion is identified.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: Negative chest .
+
+=== Sample 312 ===
+Input: Frontal and lateral views of the chest show normal size and configuration of the cardiac silhouette. No pleural effusion. There are right upper quadrant surgical clips, perhaps from cholecystectomy.
+Reference: No acute or active cardiac, pulmonary or pleural disease.
+Prediction: No acute or active cardiac, pulmonary or pleural disease.
+
+=== Sample 313 ===
+Input: Bibasilar, right greater than left atelectasis/airspace disease noted. No pneumothorax or large pleural effusion. No acute bony abnormality.
+Reference: Chronic emphysematous lung disease with mild bibasilar, right greater than left airspace disease/atelectasis.
+Prediction: Bibasilar, right greater than left atelectasis/airspace disease noted.
+
+=== Sample 314 ===
+Input: Stable tortuous aorta. No pneumothorax, pleural effusion or suspicious focal airspace opacity. Prior granulomatous disease.
+Reference: Unchanged exam without acute abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 315 ===
+Input: The lungs are clear. The heart and mediastinum are normal . The skeletal structures and soft tissues are normal.
+Reference: No active disease.
+Prediction: No acute pulmonary disease.
+
+=== Sample 316 ===
+Input: The heart size and mediastinal silhouette are within normal limits for contour. The lungs are clear. The XXXX are intact.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 317 ===
+Input: The lungs are free of any focal infiltrates. There are no nodules or masses. No visible pleural fluid.
+Reference: No acute radiographic cardiopulmonary process.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 318 ===
+Input: Stable borderline cardiomegaly, stable mediastinal and hilar contours. No alveolar consolidation, no findings of pleural effusion or pulmonary edema. No pneumothorax.
+Reference: No acute cardiopulmonary findings
+Prediction: Stable borderline cardiomegaly, no acute findings
+
+=== Sample 319 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: No acute findings. Small hiatal hernia.
+Prediction: No acute findings.
+
+=== Sample 320 ===
+Input: Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Bony thorax and soft tissues unremarkable.
+Reference: Negative for acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 321 ===
+Input: The heart size and mediastinal contours appear within normal limits. No focal airspace consolidation, pleural effusion or pneumothorax. No acute bony abnormalities.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 322 ===
+Input: The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. Osseous structures are within normal limits for patient age..
+Reference: 1. No acute radiographic cardiopulmonary process.
+Prediction: No acute radiographic cardiopulmonary process.
+
+=== Sample 323 ===
+Input: Prominent interstitial markings in the lungs are unchanged. No focal infiltrates. Heart and pulmonary XXXX are normal.
+Reference: Chronic interstitial lung disease and scars unchanged. No acute disease.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 324 ===
+Input: Cardiac And Mediastinal Contours Are Unremarkable. Pulmonary vascularity is within normal limits. There are some minimal degenerative changes of the thoracic spine.
+Reference: 1. Clear lungs.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 325 ===
+Input: Mild cardiomegaly. No focal air space opacity. No pleural effusion or pneumothorax.
+Reference: 1. Mild cardiomegaly. 2. Otherwise, no acute cardiopulmonary abnormalities.
+Prediction: Mild cardiomegaly without acute cardiopulmonary abnormality.
+
+=== Sample 326 ===
+Input: Heart size is within normal limits. No focal airspace consolidations. No pneumothorax or pleural effusion.
+Reference: No acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 327 ===
+Input: The heart size is upper limits of normal. The pulmonary XXXX and mediastinum are within normal limits. There is no focal air space opacity to suggest a pneumonia.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 328 ===
+Input: The cardiomediastinal contours are within normal limits. There is no focal airspace opacity. No acute bony abnormality is identified.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 329 ===
+Input: The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 330 ===
+Input: Normal heart size and mediastinal contours. Low lung volumes with no significant airspace consolidation. No pleural effusion or pneumothorax.
+Reference: 1. Limited low lung volume exam. 2. Otherwise, no acute cardiopulmonary abnormality.
+Prediction: Low lung volumes with no significant airspace consolidation.
+
+=== Sample 331 ===
+Input: The heart and mediastinum are unremarkable. The lungs are clear without infiltrate. There is no effusion or pneumothorax.
+Reference: 1. No acute cardiopulmonary disease.
+Prediction: 1. No acute pulmonary disease.
+
+=== Sample 332 ===
+Input: No focal airspace opacities. No pneumothorax. No XXXX deformities.
+Reference: Chronic lung disease, with no acute cardiopulmonary findings.
+Prediction: 1. No acute cardiopulmonary findings.
+
+=== Sample 333 ===
+Input: Low lung volumes bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality..
+Prediction: No acute cardiopulmonary abnormality..
+
+=== Sample 334 ===
+Input: The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 335 ===
+Input: Stable mild thoracic levoscoliosis. Stable cardiomegaly. Moderate degenerative changes of the thoracic spine.
+Reference: Stable cardiomegaly with no focal airspace disease.
+Prediction: Stable mild cardiomegaly.
+
+=== Sample 336 ===
+Input: The cardiac silhouette is not enlarged. Calcified granuloma is again seen in the right upper lobe. There is no consolidation, pleural effusion or pneumothorax.
+Reference: Increased size of density in the left cardiophrenic XXXX. Primary differential considerations include increased size of prominent epicardial fat, pericardial mass, pleural mass or cardiac aneurysm. CT chest with contrast is recommended. These findings and recommendations were discussed XXXX. XXXX by Dr. XXXX XXXX telephone at XXXX p.m. XXXX/XXXX. Dr. XXXX<XXXX>technologist receipt of the results.
+Prediction: 1. No acute cardiopulmonary process.
+
+=== Sample 337 ===
+Input: The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Cardio mediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality..
+
+=== Sample 338 ===
+Input: The heart is normal in size and contour. The lungs are clear, without evidence of infiltrate. There is no pneumothorax or effusion.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 339 ===
+Input: No focal consolidation. No visualized pneumothorax. No large pleural effusions.
+Reference: 1. No acute bony findings.
+Prediction: 1. No acute cardiopulmonary findings.
+
+=== Sample 340 ===
+Input: The lungs are free of any focal infiltrates. There are no nodules or masses. No visible pleural fluid.
+Reference: 1. Cardiomegaly without lung infiltrates.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 341 ===
+Input: Normal cardiomediastinal silhouette. No airspace consolidation, pneumothorax, pleural effusion, or pulmonary edema. No acute bony abnormality.
+Reference: No acute cardiopulmonary disease.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 342 ===
+Input: The heart is normal in size. The mediastinum is unremarkable. The lungs are clear.
+Reference: No acute disease.
+Prediction: No acute disease.
+
+=== Sample 343 ===
+Input: Lungs are clear. The heart and mediastinum are within normal limits. Bony structures are intact.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute disease.
+
+=== Sample 344 ===
+Input: The lungs and pleural spaces show no acute abnormality. Heart size and pulmonary vascularity within normal limits. .
+Reference: 1. No acute pulmonary abnormality.
+Prediction: 1. No acute pulmonary process.
+
+=== Sample 345 ===
+Input: The cardiomediastinal silhouette is within normal limits for size and contour. The lungs are normally inflated without evidence of focal airspace disease, pleural effusion, or pneumothorax. No acute bone abnormality.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute cardiopulmonary process.
+
+=== Sample 346 ===
+Input: Heart size, mediastinal contour, and pulmonary vasculature are within normal limits. Stable lingular scarring. No focal consolidation, large pleural effusion or pneumothorax is identified.
+Reference: 1. No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 347 ===
+Input: Lungs are clear without focal consolidation, effusion, or pneumothorax. Normal heart size. Soft tissues unremarkable
+Reference: Negative for acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 348 ===
+Input: Sequelae of old granulomatous disease is again noted. Lungs are clear without focal air space disease. No pleural effusions or pneumothoraces.
+Reference: Clear lungs.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 349 ===
+Input: Heart size and cardiomediastinal contours are normal. Aorta is mildly tortuous. Lungs are clear without focal airspace opacity, pleural effusion, or pneumothorax.
+Reference: Negative for acute cardiopulmonary findings.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 350 ===
+Input: Frontal and lateral views of the chest show normal size and configuration of the cardiac silhouette. There is evidence of previous granulomatous disease. No pleural effusion.
+Reference: No acute or active cardiac, pulmonary or pleural disease.
+Prediction: No acute or active cardiac, pulmonary or pleural disease.
+
+=== Sample 351 ===
+Input: The heart is normal in size. The pulmonary vascularity is within normal limits in appearance. No acute bony abnormalities.
+Reference: No acute cardiopulmonary abnormalities.
+Prediction: No acute cardiopulmonary abnormalities.
+
+=== Sample 352 ===
+Input: The cardiomediastinal silhouette is not enlarged. Lungs demonstrate no focal infiltrates. There is no effusion or pneumothorax.
+Reference: 1. No acute pulmonary disease.
+Prediction: 1. No acute cardiopulmonary disease.
+
+=== Sample 353 ===
+Input: No suspicious pulmonary opacities. Heart size within normal limits. No pleural effusions.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 354 ===
+Input: Lungs are clear bilaterally. Cardiac and mediastinal silhouettes are normal. Pulmonary vasculature is normal.
+Reference: 1. No acute cardiopulmonary abnormality. 2. Lucent lesion with thin sclerotic margin in the right humeral head. Considering the associated degenerative changes, a large geode is most XXXX. If further imaging is desired, dedicated views of the shoulder may be helpful for further characterization.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 355 ===
+Input: Cardiac and mediastinal contours are within normal limits. The lungs are clear. Bony structures are intact.
+Reference: No acute preoperative findings.
+Prediction: No acute findings.
+
+=== Sample 356 ===
+Input: Atherosclerotic calcification within the aorta. Calcified granulomas in bilateral XXXX and overlying the T9 vertebral body(lateral view). Degenerative changes of thoracic spine.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute radiographic cardiopulmonary process.
+
+=== Sample 357 ===
+Input: No focal airspace disease, pleural effusion or pneumothorax. Cardiomediastinal silhouette is within normal limits. No free subdiaphragmatic air.
+Reference: No acute pulmonary disease.
+Prediction: No acute cardiopulmonary findings.
+
+=== Sample 358 ===
+Input: Heart size and mediastinal contour within normal limits. Stable scattered calcified granulomas are noted. No acute osseous abnormality.
+Reference: No acute abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 359 ===
+Input: The heart is top normal in size. The mediastinum is unremarkable. The lungs are hypoinflated but grossly clear.
+Reference: No acute disease.
+Prediction: No acute disease.
+
+=== Sample 360 ===
+Input: The lungs are well expanded and clear. There are no focal air space opacities. There is no pneumothorax or effusion.
+Reference: No evidence of acute cardiopulmonary process. Stable appearance of the chest.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 361 ===
+Input: No focal areas of pulmonary consolidation. No pneumothorax. The thoracic spine appears intact.
+Reference: 1. No acute intrathoracic abnormality.
+Prediction: 1. No acute intrathoracic process.
+
+=== Sample 362 ===
+Input: There is a large hydropneumothorax within the left chest. There is essentially complete collapse of the left lung. At the right lung apex, there is a more focal ovoid lucency which measures approximately 1.3 cm.
+Reference: 1. Large left hydropneumothorax, with complete collapse of the left lung. 2. Airspace and interstitial opacity within the right upper and lower lobes. Possible apical cavitation. Tuberculosis should be excluded clinically.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 363 ===
+Input: The lungs are clear bilaterally. Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion.. Left basilar subsegmental atelectasis versus scar noted. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality. Specifically, no evidence of active tuberculous process.
+Prediction: No acute cardiopulmonary abnormality..
+
+=== Sample 364 ===
+Input: The cardiomediastinal silhouette is normal in size and configuration. Lung volumes are decreased, with crowding. There is no pneumothorax, pleural effusion, or focal air space consolidation.
+Reference: 1. Low lung volumes with mild crowding.
+Prediction: No acute cardiopulmonary disease.
+
+=== Sample 365 ===
+Input: The heart is not significantly enlarged. There are atherosclerotic changes of the aorta. Arthritic changes of the skeletal structures are noted.
+Reference: 1. Question small amount of free intraperitoneal air on the right. This is XXXX to be postprocedural due to the recent abdominal surgery. 2. Left basilar airspace opacity atelectasis versus pneumonitis.
+Prediction: No acute pulmonary disease.
+
+=== Sample 366 ===
+Input: In the interval, the interval, there has been development of multiple nodules in both the upper and lower lobes bilaterally. The previously identified left lower lobe nodule has increased in size. Left hemidiaphragm is slightly elevated, possibly from splinting.
+Reference: Multiple pulmonary nodules consistent with metastases. Chest, abdomen, and pelvis CT with contrast would be helpful for further evaluation.
+Prediction: 1. Cardiomegaly without acute disease. 2. Increased left lower lobe nodule.
+
+=== Sample 367 ===
+Input: The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours are within normal limits. Pulmonary vascularity is within normal limits.
+Reference: No evidence of acute cardiopulmonary process.
+Prediction: No evidence of acute cardiopulmonary process.
+
+=== Sample 368 ===
+Input: Specifically, no evidence of focal consolidation, pneumothorax, or pleural effusion. Cardiomediastinal silhouette is unremarkable. Visualized osseous structures of the thorax are without acute abnormality.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 369 ===
+Input: Normal heart size and mediastinal contours. Lungs are clear. Degenerative changes are seen in the spine.
+Reference: No acute cardiopulmonary process. .
+Prediction: No active disease.
+
+=== Sample 370 ===
+Input: No airspace disease, effusion or noncalcified nodule. Calcified granuloma seen bilaterally. Degenerative changes demonstrated within the visualized thoracic spine.
+Reference: 1. No acute cardiopulmonary abnormality. 2. Elevation of the right XXXX diaphragm, containing liver.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 371 ===
+Input: Thoracic spondylosis. Mild dextroscoliosis of the spine. Prior anterior cervical fusion.
+Reference: Emphysema without superimposed pneumonia.
+Prediction: 1. No acute intrathoracic process.
+
+=== Sample 372 ===
+Input: A persistent patchy infiltrate is present in the right middle lobe. Pulmonary XXXX are normal. Aorta remains tortuous.
+Reference: Cleared left lower lobe airspace disease with persistent right middle lobe airspace disease.
+Prediction: Patchy patchy infiltrate in the right middle lobe. No acute cardiopulmonary disease.
+
+=== Sample 373 ===
+Input: No focal infiltrate or effusion. Heart and mediastinal contours within normal limits. No displaced fracture identified.
+Reference: Low volumes with bronchovascular crowding. No acute abnormality.
+Prediction: 1. No acute cardiopulmonary disease.
+
+=== Sample 374 ===
+Input: The XXXX examination consists of frontal and lateral radiographs of the chest. The cardiomediastinal contours, lungs, pleura, osseous structures and visualized upper abdomen are normal.
+Reference: No evidence of acute thoracic XXXX.
+Prediction: No evidence of acute cardiopulmonary process.
+
+=== Sample 375 ===
+Input: The lungs are clear, and without focal air space opacity. The cardiomediastinal silhouette is normal in size and contour. There is no pneumothorax or large pleural effusion.
+Reference: No acute cardiopulmonary abnormality.
+Prediction: No acute cardiopulmonary abnormality.
+
+=== Sample 376 ===
+Input: Heart size appears enlarged. Mediastinal contours are within normal limits. Lung volumes are low with central bronchovascular crowding and patchy basilar atelectasis.. Osseous structures are within normal limits for patient age.
+Reference: 1. Low volume study without definite acute process. 2. Mild cardiomegaly.
+Prediction: 1. No acute radiographic cardiopulmonary process.
+
+=== Sample 377 ===
+Input: Lungs are clear. The heart and mediastinum are within normal limits. Bony structures are intact.
+Reference: No acute cardiopulmonary process.
+Prediction: No acute disease.
+
